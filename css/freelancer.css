@@ -223,6 +223,16 @@ header.masthead h2 {
   opacity: 1;
 }
 
+.portfolio .col-lg-12 .portfolio-item .portfolio-item-caption .img-fluid {
+  display: block;
+  margin: 0 auto;
+}
+
+.portfolio .col-lg-12 .portfolio-item .portfolio-item-caption .img-fluid {
+  margin-top: 2rem;
+  text-align: center;
+}
+
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
   font-size: 1.5rem;
 }
